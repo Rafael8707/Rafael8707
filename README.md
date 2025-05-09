@@ -2,7 +2,7 @@
     align="gif" 
     alt="gif" 
     title="Java"
-    width="500px" 
+    width="800px" 
     style="padding-right: 500px;" 
     src="https://i.gifer.com/EHil.gif"
 />
@@ -97,6 +97,9 @@
 </p>
 
 ---
+<br/>
+<br/>
+<br/>
 
 ### ☎️ Contato
 
